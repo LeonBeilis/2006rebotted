@@ -18,11 +18,7 @@ public class PlayersOnlineWebsite {
 
     private static int count = 50;
     public static void addUpdatePlayersOnlineTask() {
-<<<<<<< HEAD
         if (!password.equals("") && password != null) {
-=======
-        if (password != null && !password.equals("")) {
->>>>>>> abcb1133d85bfcd6fc1f75082d464ba3db6dfa03
             if (count == 0) {
                 try {
                     setWebsitePlayersOnline(PlayerHandler.getPlayerCount());

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package redone.net.packets.impl;
 
 import redone.Server;
@@ -1149,6 +1148,8 @@ public class ClickObject implements PacketType {
 	}
 }
 =======
+=======
+>>>>>>> e7d8021b3a3ce411d0e5b9e1efdbb35db20d58a6
 package redone.net.packets.impl;
 
 import redone.Server;
@@ -1635,4 +1636,3 @@ public class ClickObject implements PacketType {
 
 
 }
->>>>>>> abcb1133d85bfcd6fc1f75082d464ba3db6dfa03
