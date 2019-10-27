@@ -1,0 +1,6 @@
+[2019/10/27] 18:29 dev dropped 1 logs absX: 3220 absY: 3240
+[2019/10/27] 18:30 dev dropped 1 ashes absX: 3215 absY: 3239
+[2019/10/27] 18:30 dev dropped 1 ashes absX: 3215 absY: 3239
+[2019/10/27] 18:31 dev dropped 1 logs absX: 3217 absY: 3239
+[2019/10/27] 18:31 dev dropped 1 ashes absX: 3219 absY: 3237
+[2019/10/27] 18:31 dev dropped 1 ashes absX: 3219 absY: 3237
